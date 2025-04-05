@@ -4,7 +4,7 @@
 **V1Zhang/V1Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[My CV](https://github.com/V1Zhang/V1Zhang/edit/main/CV-Weiyi_Zhang.pdf)
+[My CV](https://github.com/V1Zhang/V1Zhang/main/CV-Weiyi_Zhang.pdf)
 
 - 🔭 I’m currently working on IMED, SUSTech.
 - 🌱 I’m currently learning Software Engineering, Operating System and Intelligence Robotics this semester!
