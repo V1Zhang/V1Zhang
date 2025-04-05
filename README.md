@@ -12,3 +12,5 @@
 - 🤝 I am going to apply for PhD programs in Computer Science (2026 Fall)!
 - 📫 How to reach me: zhangwy2022@mail.sustech.edu.cn.
 
+  
+[![V1Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1Zhang&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
